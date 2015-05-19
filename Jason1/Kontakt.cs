@@ -18,7 +18,7 @@ namespace Jason1
         public string Nachname { get; set;  }
         public string Vorname { get; set; }
         public string Telefonnummer { get; set; }
-        public String Emial { get; set; }
+        public String Email { get; set; }
         public String Facebook {get; set;}
 
 
