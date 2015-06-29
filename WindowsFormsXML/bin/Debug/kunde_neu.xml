@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="kunde_.xsd" generated="2012-03-25T17:28:23">
+<tKunde>
+<KundenId>1</KundenId>
+<Name>Hoffmann</Name>
+<Vorname>Peter</Vorname>
+<GebDatum>1969-05-12T00:00:00</GebDatum>
+<Telefon>405678</Telefon>
+<Strasse>Hauptstr.32</Strasse>
+<PLZ>97204</PLZ>
+<Ort>Höchberg</Ort>
+<Umsatz>1234.56</Umsatz>
+</tKunde>
+<tKunde>
+<KundenId>2</KundenId>
+<Name>Streicher</Name>
+<Vorname>Inge</Vorname>
+<GebDatum>1980-11-24T00:00:00</GebDatum>
+<Telefon>72356</Telefon>
+<Strasse>Erthalstr.34a</Strasse>
+<PLZ>97200</PLZ>
+<Ort>Würzburg</Ort>
+<Umsatz>25456.78</Umsatz>
+</tKunde>
+<tKunde>
+<KundenId>3</KundenId>
+<Name>Straub</Name>
+<Vorname>Walter</Vorname>
+<GebDatum>1975-07-14T00:00:00</GebDatum>
+<Telefon>261233</Telefon>
+<Strasse>Landstr. 2</Strasse>
+<PLZ>97203</PLZ>
+<Ort>Birkhausen</Ort>
+<Umsatz>753444.67</Umsatz>
+</tKunde>
+</dataroot>
